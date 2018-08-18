@@ -1,0 +1,7 @@
+Coverage Report: 
+ALL: classes: 100% (2/2); branches:  74% (130/176); lines: 100% (124/124);
+PKG+: edu.gatech.seclass.capitalize classes: 100% (2/2); branches:  74% (130/176); lines: 100% (124/124);
+CLS+: Capitalize  branches:  83% (53/64); lines: 100% (52/52);
+
+CLS+: Main  branches:  69% (77/112); lines: 100% (72/72);
+
