@@ -21,7 +21,7 @@ capitalize - capitalizes words in a file.
 capitalize OPT \&lt;filename\&gt;
 
 where OPT can be **zero or more** of
-  - -w [\&lt;delimiters\&gt;]
+  - -w [<delimiters>]
   - -m \&lt;string to match\&gt;
   - -f
   - -i / -I
