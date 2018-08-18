@@ -9,6 +9,10 @@
 
 **Details**
 
+**- Please use Main.java in src folder to run the program**
+
+**- Please use MainTest.java in test folder to run all the test cases**
+
 For this project you must develop, using Java, a simple **command-line** utility called capitalize, which is the same utility for which you developed test frames in the category-partition assignment. For Deliverable 1, you have developed a first implementation of capitalize that makes your initial set of test cases pass. For this second deliverable, you have to modify your implementation to account for a slight update in the specification for capitalize requested by your customer. The updated specification is below, with the changed parts marked in red:
 
 ##
