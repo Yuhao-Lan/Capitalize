@@ -1,6 +1,3 @@
-# Capitalize
-
-# Project:
 
 # Capitalize Utility
 
