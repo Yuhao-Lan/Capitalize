@@ -35,9 +35,9 @@ where OPT can be **zero or more** of
 
 &lt;filename&gt;: the file on which the capitalize operation has to be performed.
 
--w [delimiters]: if specified, the utility will capitalize the first character in each _word_, where a word is a sequence of characters terminated by either a [whitespace](https://docs.oracle.com/javase/7/docs/api/java/lang/Character.html#isWhitespace(char)), if no delimiters are specified, or any single character in the string of delimiters, otherwise. Note that the end of the file always ends a word.
+-w [&lt;delimiters&gt;]: if specified, the utility will capitalize the first character in each _word_, where a word is a sequence of characters terminated by either a [whitespace](https://docs.oracle.com/javase/7/docs/api/java/lang/Character.html#isWhitespace(char)), if no delimiters are specified, or any single character in the string of delimiters, otherwise. Note that the end of the file always ends a word.
 
--m [string]: if specified, the utility will change the capitalization of all the sequences of characters that match (in a case insensitive way) the provided string so that the capitalization _matches_ that of string (see examples).
+-m &lt;string&gt;: if specified, the utility will change the capitalization of all the sequences of characters that match (in a case insensitive way) the provided string so that the capitalization _matches_ that of string (see examples).
 
 -f: if specified, the capitalize utility will flipthe capitalization of all letters in the file, after applying any other transformation.
 
