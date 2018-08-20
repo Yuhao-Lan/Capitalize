@@ -81,7 +81,7 @@ would capitalize the first character in every word (if it is a letter), where a 
 
 - Pass all 50 test cases;
 
-- ### Coverage Report:
+- Coverage Report:
 
 ALL: classes: 100% (2/2); branches:  74% (130/176); lines: 100% (124/124);
 
