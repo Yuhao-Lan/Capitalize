@@ -17,10 +17,10 @@ For this project you must develop, using Java, a simple **command-line** utility
 
 ## Concise (Updated) Specification of utility capitalize
 
-- NAME:
+-### NAME:
 capitalize - capitalizes words in a file.
 
-- SYNOPSIS
+-### SYNOPSIS
 **capitalize OPT &lt;[filename]&gt;**;
 
 where OPT can be **zero or more** of
@@ -30,7 +30,7 @@ where OPT can be **zero or more** of
   - **-i / -I**
   - **-o**
 
-- COMMAND-LINE ARGUMENTS AND OPTIONS
+-### COMMAND-LINE ARGUMENTS AND OPTIONS
 
 &lt;filename&gt;: the file on which the capitalize operation has to be performed.
 
