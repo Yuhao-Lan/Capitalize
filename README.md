@@ -77,7 +77,9 @@ would replace all instances of &quot;asap&quot;, &quot;Asap&quot;, etc. to &quot
 capitalize -w &quot;abc&quot; file1.txt
 would capitalize the first character in every word (if it is a letter), where a word is any string of characters terminated by &#39;a&#39;, &#39;b&#39;, &#39;c&#39;, or the end of the file.
 
-**Test**  **results:**
+- ### Test results:
+
+Pass all 50 test cases;
 
 Coverage Report:
 
