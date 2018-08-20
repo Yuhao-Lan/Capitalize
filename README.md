@@ -1,7 +1,7 @@
 
 # Capitalize Utility
 
-**Project Goals**
+**Project Goals** &lt;id&gt;
 
 - Develop a Java application for replacing strings within a file.
 
@@ -22,18 +22,18 @@ Concise (Updated) Specification of utility capitalize
 capitalize - capitalizes words in a file.
 
 - SYNOPSIS
-capitalize OPT [filename];
+capitalize OPT &lt;[filename]&gt;;
 
 where OPT can be **zero or more** of
-  - -w [delimiters]
-  - -m [string]
+  - -w [&lt;delimiters&gt;]
+  - -m &lt;string to match&gt;
   - -f
   - -i / -I
   - -o
 
 - COMMAND-LINE ARGUMENTS AND OPTIONS
 
-[filename]: the file on which the capitalize operation has to be performed.
+&lt;filename&gt;: the file on which the capitalize operation has to be performed.
 
 -w [delimiters]: if specified, the utility will capitalize the first character in each _word_, where a word is a sequence of characters terminated by either a [whitespace](https://docs.oracle.com/javase/7/docs/api/java/lang/Character.html#isWhitespace(char)), if no delimiters are specified, or any single character in the string of delimiters, otherwise. Note that the end of the file always ends a word.
 
